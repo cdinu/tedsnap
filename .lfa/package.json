@@ -1,0 +1,20 @@
+{
+  "name": "tedsnap",
+  "version": "1.0.0",
+  "keywords": [
+    "lfa-book"
+  ],
+  "book": {
+    "title": "Tedsnap",
+    "language": "en"
+  },
+  "engines": {
+    "lfa": "^0.8.12"
+  },
+  "lfa": {
+    "compileCore": false,
+    "externalPlugins": [
+      "https://plugins.lfwd.io/lfa-core/0.8/plugin"
+    ]
+  }
+}
