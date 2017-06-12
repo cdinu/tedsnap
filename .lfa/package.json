@@ -14,7 +14,10 @@
   "lfa": {
     "compileCore": false,
     "externalPlugins": [
-      "https://plugins.lfwd.io/lfa-core/0.8/plugin"
+      "https://plugins.lfwd.io/lfa-core/0.8/plugin",
+      "https://plugins.lfwd.io/lfa-backstage/0.1/plugin",
+      "https://plugins.lfwd.io/lfa-annotations/0.1/plugin",
+      "https://plugins.lfwd.io/lfa-content-editor/0.1/plugin"
     ]
   }
 }

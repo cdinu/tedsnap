@@ -1,0 +1,6 @@
+[submodule "plugins/lfa-exercises"]
+	path = plugins/lfa-exercises
+	url = git@github.com:learnfwd/lfa-addon-exercises.git
+[submodule "plugins/lfa-classroom"]
+	path = plugins/lfa-classroom
+	url = git@github.com:learnfwd/lfa-addon-classroom.git
